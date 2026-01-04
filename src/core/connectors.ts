@@ -2714,4 +2714,10 @@ export default <ConnectorMeta[]>[
 		js: 'cytu-be.js',
 		id: 'cytu-be',
 	},
+	{
+		label: 'Symphony Radio',
+		matches: ['*://symphonyradio.co.uk/*'],
+		js: 'symphonyradio.js',
+		id: 'symphonyradio',
+	},
 ];
